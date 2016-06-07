@@ -1,3 +1,7 @@
+/* JE SUIS UN PENIS */
+
+
+
 package com.dev.alt.devand.service;
 
 import android.app.Service;
