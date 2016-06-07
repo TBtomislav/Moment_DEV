@@ -59,6 +59,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db3b738c-306a-4389-b5e1-0f16e394ff46" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/Daemon.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/Daemon.java" />
     </list>
     <list id="9cc19f31-15b9-481f-8d30-ffa43f0c4c5e" name="New changelist" comment="New changelist" />
     <ignored path="devAnd.iws" />
@@ -106,9 +107,11 @@
       <file leaf-file-name="Daemon.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/Daemon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.035714287">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1808,8 +1811,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/VolumeReceiver.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/FreeWay.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/Daemon.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/toto.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/Daemon.java" />
       </list>
     </option>
   </component>
@@ -2534,7 +2537,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465336130659</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="maj sup">
+      <created>1465336145133</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1465336145133</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2618,7 +2627,8 @@
     <MESSAGE value="Commencement de la mise en place du Daemon/Mode Libre avec un début de piste pour la prise de photo" />
     <MESSAGE value="Mise en place des photos grace au bouton de volume dans le thread principale" />
     <MESSAGE value="maj général" />
-    <option name="LAST_COMMIT_MESSAGE" value="maj général" />
+    <MESSAGE value="maj sup" />
+    <option name="LAST_COMMIT_MESSAGE" value="maj sup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2631,7 +2641,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2989,9 +3001,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/Daemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035714287">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
