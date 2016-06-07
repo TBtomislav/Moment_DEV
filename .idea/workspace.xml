@@ -58,10 +58,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3b738c-306a-4389-b5e1-0f16e394ff46" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/dev/alt/devand/service/toto.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
     </list>
     <list id="9cc19f31-15b9-481f-8d30-ffa43f0c4c5e" name="New changelist" comment="New changelist" />
     <ignored path="devAnd.iws" />
@@ -2531,7 +2528,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465330348134</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="maj général">
+      <created>1465336130659</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1465336130659</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
