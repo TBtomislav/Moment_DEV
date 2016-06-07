@@ -6,5 +6,9 @@
     {
         "merged": "/Users/Tom/Documents/projectAndroid/Moments/Moments/D:\\AndroidStudioProjects\\devAnd\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "/Users/Tom/Documents/projectAndroid/Moments/Moments/D:\\AndroidStudioProjects\\devAnd\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Tom/Documents/projectAndroid/Moments/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Tom/Documents/projectAndroid/Moments/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]
